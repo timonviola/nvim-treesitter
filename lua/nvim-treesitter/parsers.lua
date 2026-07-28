@@ -211,6 +211,14 @@ return {
     maintainers = { '@ObserverOfTime' },
     tier = 2,
   },
+  cedar = {
+    install_info = {
+      revision = "5092204de4521a8d5a71bbf14adf2e1ded45b723",
+      url = "https://github.com/timonviola/tree-sitter-cedar",
+    },
+    maintainers = { "@timonviola" },
+    tier = 2,
+  },
   circom = {
     install_info = {
       revision = '02150524228b1e6afef96949f2d6b7cc0aaf999e',
