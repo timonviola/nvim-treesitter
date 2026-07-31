@@ -213,8 +213,8 @@ return {
   },
   cedar = {
     install_info = {
-      revision = "5092204de4521a8d5a71bbf14adf2e1ded45b723",
-      url = "https://github.com/timonviola/tree-sitter-cedar",
+      path = "/Users/TIVI/timon/tree-sitter-cedar",
+      queries = "queries", -- use this repo's own queries (optional)
     },
     maintainers = { "@timonviola" },
     tier = 2,

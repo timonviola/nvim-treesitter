@@ -66,4 +66,22 @@
 
 (comment) @comment @spell
 
-"::" @punctuation.delimiter
+; Punctuation
+[
+  "("
+  ")"
+  "["
+  "]"
+  "{"
+  "}"
+] @punctuation.bracket
+
+[
+  ","
+  ":"
+  "::"
+  ";"
+  "."
+] @punctuation.delimiter
+
+"@" @punctuation.special
